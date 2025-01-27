@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Joshua Olaoye**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea_Monster_Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/h49Vw2u' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +34,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't run into many problems(other than syntax related things) when making the website, I applied relatively late in the cycle so I haven't added any optional features for my submission.
+But, I plan on adding additional functionality in the form of additional filters for the "Our Games" section. I want to add a sorting filter for the games, to sort by Backers, Goal, or total amount Pledged!
 
 ## License
 
